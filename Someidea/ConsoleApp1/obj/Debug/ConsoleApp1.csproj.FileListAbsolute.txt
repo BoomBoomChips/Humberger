@@ -1,0 +1,6 @@
+D:\git_project\C#code\Someidea\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\git_project\C#code\Someidea\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\git_project\C#code\Someidea\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\git_project\C#code\Someidea\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\git_project\C#code\Someidea\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\git_project\C#code\Someidea\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
