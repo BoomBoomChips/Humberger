@@ -1,0 +1,9 @@
+D:\git_project\C#code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.exe.config
+D:\git_project\C#code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.exe
+D:\git_project\C#code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.pdb
+D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csprojAssemblyReference.cache
+D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csproj.CoreCompileInputs.cache
+D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.exe
+D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.pdb
+D:\git_project\C#code\TestFramConsole\TestFramConsole\bin\Debug\ChnCharInfo.dll
+D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csproj.CopyComplete
