@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <script type="text/javascript">
+        function Go() {
+            window.location = "/P04GetParams.ashx?id=3&name=ByJSFun";
+        }
+    </script>
+</head>
+<body>
+    传参方式一：get请求<br />
+    共同点：参数都放在url后面<br />
+    缺点：数据安全性得不到保证。<br />
+    1.0 直接在url后加上参数（参数以键值对存在，用？与url隔开）<br />
+    <hr />
+    2.0通过超连接传递参数<br />
+    <a href="/P04GetParams.ashx?id=2&name=ByA">通过超连接传递参数</a><br />
+    <hr />
+    3.0通过js方法传递参数<br />
+    <input type="button" value="通过js方法传递参数" onclick="Go();" /><br />
+    <hr />
+    4.0通过form标签传递参数<br />
+    <input type="text" value="4" name="id" /><br />
+    <form method="get" action="/P04GetParams.ashx">
+        <input type="text" value="4" name="id" /><br />
+        <input type="text" value="ByForm" name="name" /><br />
+        <input type="submit" value="提交参数" /><br />
+    </form>
+
+    <!--
+        form提交数据要注意：
+        method:当前请求的方式  action：参数提交的路径
+        1.0必须要有submit按钮
+        2.0参数不能放在url后面
+        3.0如果要提交一个标签，那么这个标签必须要有name属性
+        4.0要提交的所有的标签必须放在form标签之间
+
+    -->
+
+    <hr />
+    <hr />
+    <hr />
+    传参方式二：post传参<br />
+    特点：将参数放在请求报文体中<br />
+    <form  method="post" action="/P04GetParams.ashx">
+        <input type="text" value="1" name="id" /><br />
+        <input type="text" value="ByPostForm" name="name" /><br />
+        <input type="submit" value="提交" />
+    </form>
+</body>
+</html>
