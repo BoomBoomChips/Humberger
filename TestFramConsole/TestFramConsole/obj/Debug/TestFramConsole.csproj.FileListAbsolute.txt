@@ -7,3 +7,12 @@ D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.
 D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.pdb
 D:\git_project\C#code\TestFramConsole\TestFramConsole\bin\Debug\ChnCharInfo.dll
 D:\git_project\C#code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csproj.CopyComplete
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.exe.config
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.exe
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\bin\Debug\TestFramConsole.pdb
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\bin\Debug\ChnCharInfo.dll
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csprojAssemblyReference.cache
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csproj.CoreCompileInputs.cache
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.csproj.CopyComplete
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.exe
+D:\CODE\C#Code\TestFramConsole\TestFramConsole\obj\Debug\TestFramConsole.pdb
